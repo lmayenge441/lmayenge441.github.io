@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am a **masters student** in Business Analytics at the University of Maryland, College Park. My passion lies in the intersections between fashion and technology, where I focus on using data analytics tools to help businesses within luxury retail & beauty spaces develop stronger relationships with their clientele and target markets. My main projects are:
+I am a **masters student** in Business Analytics at the University of Maryland, College Park. My passion lies in the intersections between fashion and technology, where I focus on using data analytics tools to help businesses within luxury retail & beauty spaces develop stronger relationships with their clientele and target markets. Here are my main projects 
 - Project 1
 - Project 2
 - Project 3
