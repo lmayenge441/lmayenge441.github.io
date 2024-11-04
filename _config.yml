@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Lydia Mayenge
+  name   : "Lydia Mayenge"
   avatar : "/assets/images/my_website_jpg"
   bio    : "Hey there! My name is Lydia Mayenge and I'm a grad student at UMD studying Business Analytics with a passion for fashion tech"
   links:
